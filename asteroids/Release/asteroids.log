@@ -1,0 +1,33 @@
+﻿  bullet.cpp
+  driver.cpp
+  flyingObject.cpp
+  game.cpp
+game.cpp(166): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+game.cpp(414): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+game.cpp(415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  point.cpp
+  rocks.cpp
+  ship.cpp
+ship.cpp(48): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+ship.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+ship.cpp(141): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+ship.cpp(151): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  uiDraw.cpp
+uiDraw.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(459): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+uiDraw.cpp(502): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(511): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(512): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(557): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+uiDraw.cpp(560): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  uiInteract.cpp
+  velocity.cpp
+velocity.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+velocity.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 418 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  asteroids.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2015\Projects\asteroids\Release\asteroids.exe
+  asteroids.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2015\Projects\asteroids\Release\asteroids.pdb (Full PDB)
